@@ -8,4 +8,6 @@ This project contains 2 quantum adversarial networks:
 Further information is in the presentation.
 
 
+You can run the Jupyter Notebook directly in your browser by clicking this link:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kkgergov/Quantum-Generative-Adversarial-Networks/blob/main/pytorch_interface.ipynb)
